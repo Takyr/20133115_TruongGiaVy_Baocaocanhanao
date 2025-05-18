@@ -1,0 +1,17 @@
+global BLACK
+global WHITE
+global GRAYBG
+global BABY_BLUE 
+global BLUE_GROTTO 
+global ROYAL_BLUE 
+global NAVY_BLUE 
+
+
+
+BLACK = 0, 0, 0
+WHITE = 255,255,255
+GRAYBG = 15, 15, 15
+BABY_BLUE = 255, 255, 255
+BLUE_GROTTO = 77, 182, 0
+ROYAL_BLUE = 172, 255, 0
+NAVY_BLUE = 0, 0, 0
