@@ -2,22 +2,21 @@
 # Báo cáo cá nhân - Lớp Trí tuệ nhân tạo - 242ARIN330585_05
 **Trương Gia Vỷ** - **20133115**
 
+
 ## Mô Tả
 8-Puzzle gồm một bảng hình vuông kích thước 3x3 với 8 ô chứa số từ 1 đến 8 và 1 ô trống (thường ký hiệu là 0 hoặc để trắng). Mỗi lần chỉ được di chuyển một ô liền kề vào vị trí trống (lên, xuống, trái, phải).
-![8Puzzle-1](https://github.com/user-attachments/assets/7f6e70b6-1f97-42e5-a479-569a5b4764a7)
-![8Puzzle-2](https://github.com/user-attachments/assets/39257e67-dee3-4962-8f94-b182c65fa2ac)
+
 
 ## Các Thuật Toán Được Sử Dụng
 - **BFS (Breadth-First Search)**: Thuật toán này bắt đầu từ gốc cây và khám phá tất cả các nút ở độ sâu hiện tại trước khi chuyển sang các nút ở mức độ sâu tiếp theo.
-![BFS](https://github.com/user-attachments/assets/63230615-95cd-4cc0-a3ba-b9fa1b8aedb2)
 
 - **A**: Với trọng số một nút nguồn và một nút đích, thuật toán sẽ tìm đường đi ngắn nhất (theo các trọng số đã cho) từ nguồn đến đích.
-![AStar](https://github.com/user-attachments/assets/a53d1338-2c57-4ea2-b4b6-652bc0c83b6f)
 
 ## Công Cụ và Thư Viện
 - **Python**: Ngôn ngữ lập trình chính cho dự án.
 - **Pygame**: Thư viện đồ họa để tạo giao diện trò chơi.
 - **Tkinter**: Thư viện để xây dựng giao diện người dùng (GUI).
+
 
 ## Cài Đặt
 ### Cài đặt môi trường Python trong Anaconda
